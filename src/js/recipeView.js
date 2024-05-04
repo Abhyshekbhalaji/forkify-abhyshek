@@ -1,5 +1,5 @@
 import icons from "url:../img/icons.svg";
-import { numberToFraction } from '../helpers.js';
+import { numberToFraction } from './helper.js';
 import view from"./view.js"
 //  var fraction =require( 'fractional' );
  class RecipeView extends view{
